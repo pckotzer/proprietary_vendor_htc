@@ -54,7 +54,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/hima-common/proprietary/vendor/bin/rmt_storage:$(TARGET_COPY_OUT_VENDOR)/bin/rmt_storage \
     vendor/htc/hima-common/proprietary/vendor/bin/thermal-engine:$(TARGET_COPY_OUT_VENDOR)/bin/thermal-engine \
     vendor/htc/hima-common/proprietary/vendor/bin/time_daemon:$(TARGET_COPY_OUT_VENDOR)/bin/time_daemon \
-    vendor/htc/hima-common/proprietary/vendor/etc/cir.img:$(TARGET_COPY_OUT_VENDOR)/etc/cir.img \
+    vendor/htc/hima-common/proprietary/etc/cir.img:system/etc/cir.img \
     vendor/htc/hima-common/proprietary/vendor/etc/firmware/dxcprm.b00:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/dxcprm.b00 \
     vendor/htc/hima-common/proprietary/vendor/etc/firmware/dxcprm.b01:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/dxcprm.b01 \
     vendor/htc/hima-common/proprietary/vendor/etc/firmware/dxcprm.b02:$(TARGET_COPY_OUT_VENDOR)/etc/firmware/dxcprm.b02 \
